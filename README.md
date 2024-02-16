@@ -1,4 +1,4 @@
-Checkers Game
+# Checkers Game
 
 Names and component:
 - Shi Kai Chow: Game Logic
