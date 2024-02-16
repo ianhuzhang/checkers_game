@@ -1,4 +1,5 @@
-# project-shikai-sycalvind-ianhuzhang-smayan
+Checkers Game
+
 Names and component:
 - Shi Kai Chow: Game Logic
 - Siyang Calvin Dai: TUI
